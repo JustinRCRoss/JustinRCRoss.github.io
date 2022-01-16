@@ -1,9 +1,9 @@
 title:              Justin's Blog
 email:              JustinRudyCross@outlook.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Justin Cross
+baseurl:            ""
+url:                "https://JustinRCross.github.io"
 
 remote_theme: jekyll-theme-clean-blog
 
